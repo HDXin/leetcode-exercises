@@ -8,5 +8,12 @@
     <artifactId>leetcode-exercises</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-core</artifactId>
+            <version>5.5.1</version>
+        </dependency>
+    </dependencies>
 
 </project>
